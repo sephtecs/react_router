@@ -45,9 +45,11 @@ function App() {
           <Home />
         </Route>
       </Switch>
-      
+
     </BrowserRouter>
   );
 }
 
 export default App;
+
+//next assignment, use this api: https://swapi.dev/api/people/1
